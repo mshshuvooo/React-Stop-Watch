@@ -1,0 +1,11 @@
+.controller-btns {
+    margin: 30px 0;
+}
+
+.controller-btns button {
+    margin-right: 20px;
+}
+
+.controller-btns button:focus{
+    box-shadow: none;
+}
